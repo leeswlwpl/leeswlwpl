@@ -26,6 +26,7 @@
 - Email sender service
 - Account email verification, password reset service
 - One time password function (HOTP, TOTP)
+- Payment with Paypal
 
 #### Automation
 - Selenium -> auto buy lottery ticket
