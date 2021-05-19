@@ -17,7 +17,7 @@
 
 #### Data Science 
 - Stock & Coin market data analysis
-- Search -> e.g. A* maze path finding 
+- Search Algo -> e.g. A* maze path finding 
 - K-Mean, NN, Tree ...
 
 #### Web Application
