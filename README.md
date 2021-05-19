@@ -6,8 +6,8 @@
 - 📫 Reach me via email - leeswlwpl@gmail.com
 
 ## My Goal
-Provide simple code for common function
-Target to contribute for better life
+- Provide simple code for common function
+- Target to contribute for better life
 
 
 ## Accomplished Project
