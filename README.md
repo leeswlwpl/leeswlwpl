@@ -32,11 +32,13 @@
 - Selenium -> auto buy lottery ticket
 
 ## Current Project 
-- Unity RPG Game 
+- Shopify, Mindbody booking system
 - Selenium -> auto replenishment, auto billing
 
 ## Upcoming Project
-- React Native (funny purpose)
+- Unity RPG Game (funny purpose)
+- React Native 
+- Day trading -> simple API request
 - Scrollmagic 
 - CSS RGB light button effect, hover pop up animation
 
