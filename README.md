@@ -5,24 +5,29 @@
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me via email - leeswlwpl@gmail.com
 
-## My goal
+## My Goal
 Provide simple code for common function
 Target to contribute for better life
 
 
 ## Accomplished Project
-App/ game dev
+#### App/ Game dev
 - Unity AR game on iOS
 - React Native (informative and contact purpose)
-Data science 
+
+#### Data Science 
 - Stock & Coin market data analysis
-- A* maze path finding 
-Web application
-- Web -> Shopify, booking system and admin panel
+- Search -> e.g. A* maze path finding 
+- K-Mean, NN, Tree ...
+
+#### Web Application
+- Frontend Web -> Shopify, Shopline, Wordpress, Wix ...
+- Fullstack -> Booking system and Admin panel (with Flask)
 - Email sender service
 - Account email verification, password reset service
 - One time password function (HOTP, TOTP)
-Automation
+
+#### Automation
 - Selenium -> auto buy lottery ticket
 
 ## Current Project 
