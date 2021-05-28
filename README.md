@@ -34,12 +34,12 @@
 ## Current Project 
 - Shopify, Mindbody booking system
 - Selenium -> auto replenishment, auto billing
+- GSAP, ScrollTrigger
 
 ## Upcoming Project
 - Unity RPG Game (funny purpose)
 - React Native 
-- Day trading -> simple API request
-- Scrollmagic 
+- Day trading -> simple API request call
 - CSS RGB light button effect, hover pop up animation
 
 
