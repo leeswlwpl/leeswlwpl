@@ -1,12 +1,13 @@
 ## Profile
 - 👋 Hi, I’m @leeswlwpl
-- 👀 I’m interested in app/game development and automation
-- 🌱 I’m currently learning selenium
+- 📜 I'm 9 years old in learning IT, with 2 years related working experience
+- 👀 I’m interested in Web3, Blockchain, Crypto tech; app/game development; Jobs automation;   
+- 🌱 I’m currently learning to build a Crypto NFT project; and planning to build a educational website about Web3, Crypto 
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me via email - leeswlwpl@gmail.com
 
 ## My Goal
-- Provide simple code for common function
+- Provide simple code for public common usage
 - Target to contribute for better life
 
 
@@ -21,27 +22,31 @@
 - K-Mean, NN, Tree ...
 
 #### Web Application
-- Frontend Web -> Shopify, Shopline, Wordpress, Wix ...
-- Fullstack -> Booking system and Admin panel (with Flask)
+- Frontend Web -> Bootstrap, Semantic UI, jQuery UI
+- Fullstack -> Wordpress; Booking system and Admin panel (with Flask); Nodejs
+- Shopify, Shopline, Wix 
 - Email sender service
 - Account email verification, password reset service
 - One time password function (HOTP, TOTP)
-- Payment with Paypal
+- Payment with Paypal api
+- GSAP, ScrollTrigger
 
 #### Automation
 - Selenium -> auto buy lottery ticket
 
 ## Current Project 
-- Shopify, Mindbody booking system
-- Selenium -> auto replenishment, auto billing
-- GSAP, ScrollTrigger
+- Stock/Crypto market price alert
+- Twitter tweets notification
+- Day trading -> simple API request call
+- Self interest website with google Adsense
 
 ## Upcoming Project
 - Unity RPG Game (funny purpose)
 - React Native 
-- Day trading -> simple API request call
-- CSS RGB light button effect, hover pop up animation
 
+## temporary Deprecate 
+- Selenium -> auto replenishment, auto billing
+- CSS RGB light button effect, hover pop up animation
 
 
 <!---
