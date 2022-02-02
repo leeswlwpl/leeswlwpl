@@ -34,6 +34,12 @@
 #### Automation
 - Selenium -> auto buy lottery ticket
 
+#### Raspberry Pi
+- Temperature sensor
+- Heart rate sensor
+- Multiple camera to 1 screen
+- E-Paper display
+
 ## Current Project 
 - Stock/Crypto market price alert
 - Twitter tweets notification
@@ -44,7 +50,7 @@
 - Unity RPG Game (funny purpose)
 - React Native 
 
-## temporary Deprecate 
+## Temporary Deprecate 
 - Selenium -> auto replenishment, auto billing
 - CSS RGB light button effect, hover pop up animation
 
