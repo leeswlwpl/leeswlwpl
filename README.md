@@ -1,8 +1,8 @@
 ## Profile
 - 👋 Hi, I’m @leeswlwpl
-- 📜 I'm 9 years old in learning IT, with 2 years related working experience
-- 👀 I’m interested in Web3, Blockchain, Crypto tech; app/game development; Jobs automation;   
-- 🌱 I’m currently learning to build a Crypto NFT project; and planning to build a educational website about Web3, Crypto 
+- 📜 I'm 9 years old in IT field, with 2 years related working experience
+- 👀 I’m interested in Web3, Blockchain, Crypto; app/game development; Jobs automation;   
+- 🌱 I’m currently learning to build a algo trading program; and planning to build a educational website about Web3, Crypto 
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me via email - leeswlwpl@gmail.com
 
@@ -15,6 +15,16 @@
 #### App/ Game dev
 - Unity AR game on iOS
 - React Native (informative and contact purpose)
+
+#### Crypto
+- Smart contract
+- NFT project
+
+#### Automation
+- Stock/Crypto market price alert
+- Twitter tweets notification
+- Program trading -> simple exchange API request call
+- Selenium -> auto buy lottery ticket
 
 #### Data Science 
 - Stock & Coin market data analysis
@@ -31,9 +41,6 @@
 - Payment with Paypal api
 - GSAP, ScrollTrigger
 
-#### Automation
-- Selenium -> auto buy lottery ticket
-
 #### Raspberry Pi
 - Temperature sensor
 - Heart rate sensor
@@ -41,18 +48,16 @@
 - E-Paper display
 
 ## Current Project 
-- Stock/Crypto market price alert
-- Twitter tweets notification
-- Day trading -> simple API request call
-- Self interest website with google Adsense
+- Simple reseach on trading stratgy and back testing
+- Interesting website with google Adsense
 
 ## Upcoming Project
-- Unity RPG Game (funny purpose)
-- React Native 
+- Unity RPG Game (for fun purpose)
+- React Native; Native android or ios app
 
-## Temporary Deprecate 
+## Temporary put aside
 - Selenium -> auto replenishment, auto billing
-- CSS RGB light button effect, hover pop up animation
+- CSS RGB light effect； css hover pop up animation
 
 
 <!---
